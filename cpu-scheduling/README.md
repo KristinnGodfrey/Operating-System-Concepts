@@ -14,7 +14,7 @@ see scheduling-algorithms.ipynb for graphical solution.
 calculate the average residence time and the average waiting time (hint: gantt chart)
 
 <p align="center">
-  <img src="/formula.png" width="60%" /> 
+  <img src="/cpu-scheduling/formula.png" width="60%" /> 
 </p>
 
 ###  Solution
