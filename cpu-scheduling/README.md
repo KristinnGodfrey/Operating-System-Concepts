@@ -1,8 +1,8 @@
 # Objective
 Fill in the table of order processes run
 
-![objective](objective.png)
 ![proccessesrun](proccessesrun.png)
+![hidden](hidden.png)
 
 ### Code
 see scheduling-algorithms.py for python program using pandas
