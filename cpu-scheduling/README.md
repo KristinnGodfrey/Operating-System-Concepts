@@ -1,7 +1,7 @@
 # Objective
 Fill in the table of order processes run
 
-![proccessesrun](proccessesrun.png)
+![processesrun](processesrun.png)
 ![hidden](hidden.png)
 
 ### Code
