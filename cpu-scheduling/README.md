@@ -1,5 +1,5 @@
 # Objective
-place the given processes in order.
+Fill in the table of order processes run
 
 ![objective](objective.png)
 ![hidden](hidden.png)
