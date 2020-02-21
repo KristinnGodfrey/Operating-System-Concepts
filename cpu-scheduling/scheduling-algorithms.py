@@ -20,7 +20,7 @@ arrival = {
 }
 arrival = pd.DataFrame(data=arrival)
 print("Process arrival and duration:")
-print(arrival.T) 
+print(arrival.T.to_string(index=False))
 
 print() #newline
 
