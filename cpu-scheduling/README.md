@@ -13,7 +13,9 @@ see scheduling-algorithms.ipynb for graphical solution.
 # Objective 2
 calculate the average residence time and the average waiting time (hint: gantt chart)
 
-![formula](formula.png)
+<p align="center">
+  <img src="/formula.png" width="60%" /> 
+</p>
 
 ###  Solution
 
