@@ -2,8 +2,8 @@ import pandas as pd
 
 description = {
     'Processes': 			["P1",	"P2",	"P3",	"P4",	"P5"],
-    'Arrival' 'time':		["0",	"2",	"3",	"14",	"18"],
-    'Service' 'time': 		["4",	"11",	"8",	"5",	"4"],
+    'Arrival time':		    ["0",	"2",	"3",	"14",	"18"],
+    'Service time': 		["4",	"11",	"8",	"5",	"4"],
     'Priority':			    ["mid",	"low",	"high",	"mid",	"high"]
 }
 description = pd.DataFrame(data=description)
