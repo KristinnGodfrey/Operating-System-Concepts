@@ -1,8 +1,8 @@
 # Objective
-Fill in the table of order processes run
+Fill in the table of order of processes run
 
-![objective](objective.png)
-![proccessesrun](proccessesrun.png)
+![processesrun](processesrun.png)
+![hidden](hidden.png)
 
 ### Code
 see scheduling-algorithms.py for python program using pandas
@@ -14,7 +14,7 @@ see scheduling-algorithms.ipynb for graphical solution.
 calculate the average residence time and the average waiting time (hint: gantt chart)
 
 <p align="left">
-  <img src="/cpu-scheduling/formula.png" width="60%" /> 
+  <img src="/cpu-scheduling/formula.png" width="40%" /> 
 </p>
 
 ###  Solution
