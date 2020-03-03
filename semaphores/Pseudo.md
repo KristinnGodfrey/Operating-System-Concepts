@@ -1,5 +1,5 @@
 ---
-tags: [Stýrikerfi]
+tags: Stýrikerfi
 title: Assignment 13
 ---
 
