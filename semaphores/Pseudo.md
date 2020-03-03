@@ -1,10 +1,3 @@
----
-tags: [Stýrikerfi]
-title: Assignment 13
-created: '2020-03-03T13:37:20.196Z'
-modified: '2020-03-03T14:24:23.098Z'
----
-
 # Assignment 13
 
 Use semaphores to solve the following synchronisation problem of a young family consisting
