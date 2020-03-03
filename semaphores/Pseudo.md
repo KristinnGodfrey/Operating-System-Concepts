@@ -11,7 +11,7 @@ breakfast themselves). Once the children have finished breakfast, the mother tak
 and drives the child to school (takeAndDriveToSchool()) and the father clears the table
 (clearTable()). Each process finishes behaviour after these steps
 
-![sema](Screenshots/sema.png)
+![sema](Screenshots/Sema.png)
 
 ## Solution
 
