@@ -1,17 +1,22 @@
+---
+tags: [Stýrikerfi]
+title: Assignment 13
+---
+
 # Assignment 13
 
 Use semaphores to solve the following synchronisation problem of a young family consisting
-of a mother, father, and two twin children (having the same behaviour): their day starts with
-each of them going to toilet first (useToilet()). The order of going to toilet is arbitrary
-and only one toilet exists. After the father has used the toilet, he prepares a drink for the
-children (prepareDrinks()); after the mother has used the toilet, she prepares food for the
-children (prepareFood()). If both food and drink are ready, the children have breakfast
-(haveBreakfast() – mother and father are so busy with the kids that they do not have
-breakfast themselves). Once the children have finished breakfast, the mother takes the child
-and drives the child to school (takeAndDriveToSchool()) and the father clears the table
-(clearTable()). Each process finishes behaviour after these steps
+of a mother, father, and two twin children (having the same behaviour): 
 
-![sema](Screenshots/Sema.png)
+* their day starts with each of them going to toilet first (useToilet()). The order of going to toilet is arbitrary and only one toilet exists. 
+* After the father has used the toilet, he prepares a drink for the children (prepareDrinks());
+* after the mother has used the toilet, she prepares food for the children (prepareFood()). 
+* If both food and drink are ready, the children have breakfast(haveBreakfast() – mother and father are so busy with the kids that they do not have breakfast themselves). 
+* Once the children have finished breakfast, the mother takes the child and drives the child to school (takeAndDriveToSchool()) and the father clears the table
+(clearTable()). 
+* Each process finishes behaviour after these steps    
+
+![sema](Screenshots/sema.png)
 
 ## Solution
 
