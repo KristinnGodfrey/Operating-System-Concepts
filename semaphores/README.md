@@ -1,9 +1,9 @@
 ---
-tags: [Stýrikerfi]
+tags: Stýrikerfi
 title: Assignment 13
 ---
 
-# Assignment 13
+# Pseudo Semaphores
 
 Use semaphores to solve the following synchronisation problem of a young family consisting
 of a mother, father, and two twin children (having the same behaviour): 
@@ -16,7 +16,7 @@ of a mother, father, and two twin children (having the same behaviour):
 (clearTable()). 
 * Each process finishes behaviour after these steps    
 
-![sema](Screenshots/sema.png)
+![sema](Screenshots/Sema.png)
 
 ## Solution
 
